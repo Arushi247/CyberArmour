@@ -1,1 +1,3 @@
 # CyberArmour
+This AI chatbot designed for cyber security is an innovative solution that can help organizations to safeguard their digital assets from potential cyber threats. This chatbot utilizes machine learning algorithms and natural language processing techniques to analyze and respond to user queries related to cyber security. It can provide timely and accurate information on security risks, vulnerability assessments, and best practices to mitigate potential threats. Moreover, this chatbot is language friendly for users. Users can communicate with the bot in English, Hindi and Tamil. In summary, the AI chatbot is a valuable tool that can assist organizations in strengthening their cyber security posture and protecting their assets against emerging threats.
+
